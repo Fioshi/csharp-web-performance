@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("csharp-web-performance")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf334f80e452bc5fab9ef3a60970d5aebe99dd02")]
 [assembly: System.Reflection.AssemblyProductAttribute("csharp-web-performance")]
 [assembly: System.Reflection.AssemblyTitleAttribute("csharp-web-performance")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

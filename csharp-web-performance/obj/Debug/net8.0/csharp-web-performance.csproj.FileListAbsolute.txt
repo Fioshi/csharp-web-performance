@@ -30,3 +30,6 @@ D:\csharp-web-performance\csharp-web-performance\obj\Debug\net8.0\refint\csharp-
 D:\csharp-web-performance\csharp-web-performance\obj\Debug\net8.0\csharp-web-performance.pdb
 D:\csharp-web-performance\csharp-web-performance\obj\Debug\net8.0\csharp-web-performance.genruntimeconfig.cache
 D:\csharp-web-performance\csharp-web-performance\obj\Debug\net8.0\ref\csharp-web-performance.dll
+D:\csharp-web-performance\csharp-web-performance\bin\Debug\net8.0\Dapper.dll
+D:\csharp-web-performance\csharp-web-performance\bin\Debug\net8.0\MySqlConnector.dll
+D:\csharp-web-performance\csharp-web-performance\obj\Debug\net8.0\csharp-web-performance.sourcelink.json
